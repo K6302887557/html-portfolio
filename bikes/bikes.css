@@ -1,0 +1,60 @@
+.bike1{
+    margin: 20px;
+    background-color: beige;
+}
+#bike{
+    text-align: center;
+    color: rgb(9, 177, 104);
+    background-color: bisque;
+    border-radius: 20px;
+    font-weight: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#bike1{
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
+    width: 14rem;
+    border-radius: 10px;
+    text-align: center;
+    color: rgb(226, 43, 49);
+
+}
+img{
+    border-radius: 10px;
+}
+h2{
+    background-color: rgb(162, 200, 234);
+    border-radius: 50px;
+    width: 40%;
+    text-align: center;
+    align-items: center;
+}
+table{
+ font-size: 20px;
+ border-collapse: collapse;
+ width: 100%;
+ text-align: center;
+}
+thead,td{
+    border-bottom: 1px solid ;
+    width: 50%;
+    border: 1px solid black ;
+    padding: 10px; 
+}
+#id1,#id2{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    background-color: rgb(246, 115, 143);
+}
+td{
+    text-align: center;
+    background-color: rgb(133, 221, 221); 
+}
+#h3{
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(46, 232, 46);
+    border-radius: 50%;
+}

@@ -1,0 +1,99 @@
+#div1{
+    display:inline-block;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 20px solid rgb(18, 185, 241);
+    margin: 150px; 
+   
+}
+#div2{
+    display:inline-block;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 20px solid yellow;
+    margin-left: -280px;
+   
+}
+#div3{
+    display:inline-block;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 20px solid black;
+    margin: 150px;
+    margin-left: -120px;
+}
+#div4{
+    display:inline-block;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 20px solid rgb(41, 195, 41);
+    margin-left: -280px;
+}
+#div5{
+    display:inline-block;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 20px solid rgb(249, 20, 188);
+    margin: 150px;
+    margin-left: -120px;
+}
+#d1{
+    display: inline-flex;
+    background-color: rgb(240, 98, 62);
+    height: 200px;
+    width: 200px;
+    margin-left: 10rem;
+}
+#d2{display: inline-flex;
+    background-color: rgb(137, 230, 37);
+    height:200px;
+    width: 200px;
+    margin-left:5px;
+}
+#d3{display: inline-flex;
+    background-color: rgb(62, 189, 248);
+    height: 200px;
+    width: 200px;
+    margin-left: 10rem;
+}
+#d4{display: inline-flex;
+    background-color: rgb(215, 162, 39);
+    height: 200px;
+    width:200px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+legend{
+    margin-left: 10rem;
+    text-align: left;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(71, 228, 71);
+    border: 1px solid black;
+    border-radius:10px;
+    background-color: white;
+}
+fieldset{
+    margin-top: -30px;
+    margin-left: 100px;
+    margin-right: 42%;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding-top: 70px;
+}
+#f{
+    margin: 100px;
+    margin-top: 90px;
+    border-radius: 10px;
+}
+#l{
+    margin-bottom: -90px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
