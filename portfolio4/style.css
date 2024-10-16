@@ -1,0 +1,152 @@
+#iflag{
+   text-align: justify;
+   
+   
+}
+#iflag1{
+ height: 75px;
+ width:450px;
+ background-color: orangered;
+}
+#iflag2{
+    height: 75px;
+   width:450px;
+   background-color: white;
+}
+#iflag3{
+    height: 75px;
+    width:450px;
+    background-color: green;
+
+}
+img{
+    height: 75px;
+    width: 130px;
+   margin-left: 150px;
+}
+#iceland1{
+    display: inline-flex;
+    height:100px;
+    width:100px;
+    background-color:blue;
+    float: inline-start;
+}
+#iceland2{
+    float:left ;
+    height:250px;
+    width:40px;
+    background-color: red;
+    margin-right:5px;
+    margin-left:5px;
+}
+#iceland3{
+    display: inline-block;
+    height:100px;
+    width:200px;
+    background-color: blue;
+
+}
+#iceland4{
+    height:40px;
+    width:350px;
+    background-color: red;
+    margin-bottom: 5px;
+}
+#iceland5{
+    height:100px;
+    width:100px;
+    background-color:blue;
+    
+}
+#iceland6{
+    height: 100px;
+    width:200px;
+    background-color: blue;
+    float: left;
+    margin-top: -100px;
+}
+#box1{
+    display: inline-flex;
+    height: 100px;
+    width:100px;
+    background-color: #006AA7;
+    float: left;
+}
+#box2{
+    height: 239px;
+    width:40px;
+    background-color: #FECC02;
+    float:left;
+}
+#box3{
+    float: left;
+    height: 100px;
+    width:200px;
+    background-color: #006AA7;
+}
+#box4{
+   height: 40px;
+   width: 340px;
+   background-color: #FECC02;
+   margin-top: 120px;
+}
+#box5{
+    height: 100px;
+    width:100px;
+    background-color: #006AA7; 
+}
+#box6{
+    float: left;
+    height: 100px;
+    width:200px;
+    background-color: #006AA7;
+    margin-top: -100px;
+}
+#mauritius1{
+    height: 40px;
+    width:350px;
+    background-color: #EA2839;
+}
+#mauritius2{
+    height: 40px;
+    width:350px;
+    background-color:#1A206D ;
+}
+#mauritius3{
+    height: 40px;
+    width:350px;
+    background-color:#FFD500;
+}
+#mauritius4{
+    height: 40px;
+    width:350px;
+    background-color:#00A551;
+}
+#sudan1{
+    height: 70px;
+    width: 350px;
+    background-color: #f5081c;
+}
+#sudan2{
+    height: 70px;
+    width: 350px;
+    background-color:white;
+}
+#sudan3{
+    height: 70px;
+    width: 350px;
+    background-color:black;
+}
+#sudan4{
+ height: 0;
+ width: 0;
+ border-left:105px solid transparent ;
+ border-right: 105px solid transparent;
+ border-bottom: 130px solid rgb(14, 120, 14);
+ transform: rotate(90deg);
+ margin-top: -170px;
+ margin-left: -40px;
+}
+#td1{
+    padding: 10px;
+}
